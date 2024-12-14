@@ -1,5 +1,165 @@
-title: Vista Hub
-#logo
-description: Expand your horizons with insightful articles on travel, education, and lifestyle at VistaHub.
-#show_downloads: true
-theme: jekyll-theme-minimal
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bliss Shine Calendar</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <meta name="description" content="Organize your schedule with printable calendars for 2023, 2024, and 2025. Access a range of calendar formats for effective planning and tracking key dates." /> <!-- Meta Description -->
+    <meta name="keywords" content="Calendar, Calendar Printable, Printable Calendar, calendar, printable calendar, calendar 2023, calendar 2024, calendar 2025, free calendar, blank calendar, monthly calendar, yearly calendar, calendar download, online calendar"/> <!-- Keyword Tag -->
+    <link rel="canonical" href="https://calendar.blissshine.com/" /> <!-- Canonical URL -->
+    <meta http-equiv="cache-control" content="max-age=10800" /> <!-- 3-hour cache clear setting -->
+    <link rel="icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGQs0znPtMcQgUEad_84BitBTzi1EWWSMcmpJU-61nw4ZkaPE82L5r2Rl02i1Y7E6AOTvdeNgPrS3AmU8jYVW2VDLuKf7sM3Bc-S04S0iekhKW4PpujL2Y9RmOu4tZGGjPP83v4vKOT1vaNYYyNWyTV6WV2WWXyTPPVn4zlsuPm45em55P13koVss29DQ/s4000/favicon.png" type="image/x-icon"> <!-- Favicon -->
+    <style>
+        /* Resetting some default browser styles for consistency */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            overflow-x: hidden;
+        }
+        
+        /* General styles */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+            color: #333;
+        }
+        
+        /* Header and Footer Menu */
+        header, footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        
+        /* Menu styling */
+        nav a {
+            color: #fff;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        
+        nav a:hover {
+            text-decoration: underline;
+        }
+        
+        /* Buttons styling */
+        .buttons a {
+            display: inline-block;
+            background-color: #007BFF;
+            color: #fff;
+            padding: 10px 20px;
+            margin: 5px;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        
+        .buttons a:hover {
+            background-color: #0056b3;
+        }
+
+        /* Ad styling for placeholder */
+        .ad {
+            background-color: #f9f9f9;
+            color: #555;
+            text-align: center;
+            padding: 15px;
+            margin: 10px 0;
+            border: 1px solid #ddd;
+        }
+      
+      } 
+        .button img {width: 15px; height: 15px; }
+    </style>
+</head>
+<body>
+
+    <!-- Header Menu -->
+    <header>
+       <h1>Bliss Shine Calendar</h1>
+    </header><br>
+
+<!-- Ad Top Anchor -->
+  
+    <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+      window.googletag = window.googletag || {cmd: []};
+
+      // GPT ad slots
+      var anchorSlot_2;
+
+      googletag.cmd.push(function() {
+        anchorSlot_2 = googletag.defineOutOfPageSlot('/32456401/Calendar-BlissShine-Anchor', googletag.enums.OutOfPageFormat.TOP_ANCHOR);
+        anchorSlot_2.addService(googletag.pubads());
+
+         // Enable SRA and services.
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+        googletag.display(anchorSlot_2);
+      });
+</script>
+  
+      <!-- Ad Before Variation Buttons -->
+<br><center><script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/32456401/Calendar-BlissShine-Header', [[250, 360], [300, 250], [250, 350], [250, 250], [336, 280]], 'div-gpt-ad-1730876932266-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script><!-- /32456401/Calendar-BlissShine-Header -->
+<div id='div-gpt-ad-1730876932266-0' style='min-width: 250px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1730876932266-0'); });
+  </script>
+  </div></center><br>
+
+  <h1>Printable Calendars</h1><br>
+    <!-- Content with Paragraphs -->
+    <section>
+        <p>Calendars are essential tools that help us organize our time, track important dates, and plan for upcoming events. Whether for personal or professional use, a well-designed calendar keeps us aware of our schedule, ensuring that we manage our time effectively and achieve our goals. Calendars come in various formats, from traditional wall calendars to compact desk versions, each tailored to meet diverse needs.</p><br>
+        
+        <!-- Buttons after First Paragraph -->
+        <div class="buttons">
+            <center><a href="https://calendar.blissshine.com/Calendar-2023.html" class="button"> <i class="fas fa-download" style="margin-right: 8px;"></i>Calendar 2023</a><br><br>   <a href="https://calendar.blissshine.com/Calendar-2024.html" class="button"> <i class="fas fa-download" style="margin-right: 8px;"></i>Calendar 2024</a><br><br>   <a href="https://calendar.blissshine.com/Calendar-2025.html" class="button"> <i class="fas fa-download" style="margin-right: 8px;"></i>Calendar 2025</a></center>
+        </div><br>
+
+ <!-- Ad After Description -->
+<center><script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/32456401/Calendar-BlissShine-InArticle', [[320, 480], [250, 360], [240, 400], [250, 250], [336, 280], [250, 350], [300, 250]], 'div-gpt-ad-1730877187631-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script><!-- /32456401/Calendar-BlissShine-InArticle -->
+<div id='div-gpt-ad-1730877187631-0' style='min-width: 240px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1730877187631-0'); });
+  </script>
+  </div></center><br>
+<h2>Embrace the simplicity, efficiency, and easy-to-access calendars.</h2><br>
+        <p>Printable calendars have gained popularity for their convenience and versatility. With a printable calendar, you can select the format that suits you best—monthly, weekly, or yearly—and customize it to include specific events, reminders, or notes. These printable options are particularly useful for people who prefer hands-on scheduling and need a quick, accessible way to manage their commitments.</p><br>
+      <h2>Planning Ahead with Future Calendars</h2>  <br>
+      <p>Calendars for upcoming years, such as Calendar 2023, Calendar 2024, and Calendar 2025, allow for long-term planning. They’re ideal for individuals and businesses aiming to set goals, map out projects, or organize vacations well in advance. Printable versions of these future calendars can be a helpful resource for educators, event planners, and anyone looking to stay ahead with their scheduling needs. Embrace the simplicity and efficiency of planning with these easy-to-access calendars.</p>
+    </section><br>
+  
+    <!-- Footer Menu -->
+    <footer>
+        <nav>
+            <a href="https://blissshine.com/" style="color: white;">Home</a> | <a href="https://blissshine.com/about" style="color: white;">About</a> | <a href="https://blissshine.com/privacy-policy" style="color: white;">Privacy Policy</a> <br> <a href="https://blissshine.com/terms-of-uses" style="color: white;">Term of uses</a> | <a href="https://blissshine.com/gdpr-policy" style="color: white;">GDPR Policy</a> <br> <a href="https://blissshine.com/cpa-cpra-policy" style="color: white;">CPA CPRA Policy</a> | <a href="https://blissshine.com/contact" style="color: white;">Contact us</a>
+        </nav>
+    </footer>
+
+</body>
+</html>
